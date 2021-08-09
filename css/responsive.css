@@ -1,0 +1,349 @@
+/*  Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    /*header*/
+    .menu li {
+        margin-left: 0;
+    }
+    /*banner*/
+    .banner {
+        padding: 40px 0;
+    }
+    .banner-content h1 {
+        font-size: 30px;
+    }
+    .banner-content a {
+        color: #fff;
+        text-decoration: none;
+        width: 100%;
+    }
+    .banner-content {
+        margin-top: 0%;
+    }
+    /*feature*/
+    .feature {
+        padding: 40px 0;
+    }
+    .feature-heading h1 {
+        font-size: 30px;
+        margin: 15px 0;
+    }
+    .feature-heading p {
+        padding: 0 0px;
+    }
+    .feature-body {
+        margin-top: 20px;
+    }
+    .feature-body span {
+        width: 85px;
+        height: 85px;
+    }
+    .feature-body h2 {
+        font-size: 25px;
+    }
+    /*about*/
+    .about {
+        padding: 40px 0;
+    }
+    .about-content h1 {
+        font-size: 30px;
+        margin: 14px 0px;
+    }
+    .about-content a {
+        width: 100%;
+    }
+    /*counter*/
+    .counter {
+        padding: 40px 0;
+    }
+    span.count {
+        font-size: 40px;
+    }
+    .count-bg {
+        padding: 35px;
+    }
+    .single-count h3 {
+        font-size: 16px;
+    }
+    /*service*/
+    .service {
+        padding: 40px 0;
+    }
+    .service-icon {
+        width: 18%;
+        margin: 15px auto;
+    }
+    .service-body-content h2 {
+        font-size: 25px;
+        text-align: center;
+    }
+    .service-body-content p {
+        text-align: center;
+    }
+    /*work*/
+    .work {
+        padding: 25px 0;
+    }
+    .work-content h2 {
+        font-size: 30px;
+        margin: 10px 0px;
+    }
+    .work-content a {
+        width: 100%;
+    }
+    /*client*/
+    .client {
+        padding: 0px 0;
+    }
+    .client-heading h1 {
+        margin-bottom: 8%;
+    }
+    .client-slider {
+        cursor: grab;
+        margin-bottom: 7%;
+    }
+    /*f-bg*/
+    .f-bg {
+        padding: 40px 0;
+    }
+    .f-bg-content h2 {
+        font-size: 27px;
+        margin: 12px 0;
+    }
+    /*newsletter*/
+    .newsletter {
+        padding: 40px 0;
+    }
+    .newsletter-form input.ymail {
+        width: 100%;
+    }
+    .newsletter-form button.f-btn {
+        width: 100%;
+        margin-top: 4.5%;
+    }
+    /*footer*/
+    .f-icons ul {
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .f-icons ul li a {
+        font-size: 15px;
+    }
+    .f-logo h1 {
+        margin-top: 4px;
+        font-size: 28px;
+    }
+    .copy-right h2 {
+        font-size: 16px;
+        margin-top: 9px;
+        text-align: center;
+    }
+}
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /*header*/
+    .menu li {
+        margin-left: 0;
+    }
+    /*banner*/
+    .banner-content {
+        margin-top: 0;
+    }
+    .banner {
+        padding: 50px 0;
+    }
+    .banner-content h1 {
+        font-size: 40px;
+    }
+    .banner-content a {
+        width: 100%;
+    }
+    .banner-img {
+        margin-top: 10%;
+    }
+    /*feature start*/
+    .feature {
+        padding: 50px 0;
+    }
+    .feature-heading p {
+        padding: 0;
+    }
+    .feature-body span {
+        width: 90px;
+        height: 90px;
+        color: #473288;
+        font-size: 34px;
+    }
+    .feature-body {
+        margin-top: 15px;
+    }
+    /*about*/
+    .about {
+        padding: 50px 0;
+    }
+    .about-content a {
+        width: 100%;
+    }
+    /*counter*/
+    .counter {
+        padding: 50px 0;
+    }
+    .count-bg {
+        padding: 35px;
+    }
+    /*service*/
+    .service {
+        padding: 50px 0;
+    }
+    .service-icon {
+        width: 22%;
+    }
+    .service-body-content h2 {
+        text-align: center;
+        margin-top: 5%;
+    }
+    .service-body-content p {
+        text-align: center;
+    }
+    /*work*/
+    .work {
+        padding: 50px 0;
+    }
+    .work-content a {
+        width: 100%;
+    }
+    /*client*/
+    .client {
+        padding: 0 0;
+        margin-bottom: 5%;
+    }
+    .f-bg {
+        padding: 50px 0;
+    }
+    .f-bg-content {
+        padding: 15px;
+    }
+    .f-bg-content span {
+        display: block;
+        margin: 0 auto;
+    }
+    .f-bg-content h2 {
+        text-align: center;
+    }
+    .f-bg-content p {
+        text-align: center;
+    }
+    .newsletter {
+        padding: 50px 0;
+    }
+    .newsletter-form input.ymail {
+        width: 100%;
+    }
+    .newsletter-form button.f-btn {
+        width: 100%;
+        margin-top: 3.5%;
+    }
+    /*footer*/
+    .f-icons ul {
+        text-align: center;
+    }
+    .f-logo h1 {
+        margin-top: 8px;
+        font-size: 25px;
+    }
+    .copy-right h2 {
+        font-size: 15px;
+        margin-top: 12px;
+        text-align: center;
+    }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /*header*/
+    .menu li {
+        margin-left: 0;
+    }
+    /*banner*/
+    .banner {
+        padding: 60px 0;
+    }
+    .banner-img {
+        margin-top: 17%;
+    }
+    .banner-content {
+        margin-top: 0;
+    }
+    /*feature*/
+    .feature {
+        padding: 60px 0;
+    }
+    .feature-heading p {
+        padding: 0 60px;
+    }
+    .feature-body p {
+        padding: 0 0px;
+    }
+    .about {
+        padding: 60px 0;
+    }
+    .about-img {
+        margin-top: 33%;
+    }
+    .counter {
+        padding: 60px 0;
+    }
+    .count-bg {
+        padding: 35px;
+    }
+    .service {
+        padding: 60px 0;
+    }
+    .service-icon {
+        margin: 68px auto;
+    }
+    .work {
+        padding: 60px 0;
+    }
+    .work-img {
+        margin-top: 31%;
+    }
+    .f-bg {
+        padding: 60px 0;
+    }
+    .f-bg-content {
+        padding: 10px;
+    }
+    .newsletter {
+        padding: 60px 0;
+    }
+    .newsletter-form input.ymail {
+        width: 90%;
+    }
+    .newsletter-form button.f-btn {
+        width: 90%;
+    }
+    /*footer*/
+    .f-icons ul li a {
+        font-size: 15px;
+    }
+    .f-logo h1 {
+        margin-top: 29px;
+        font-size: 27px;
+    }
+    .copy-right h2 {
+        font-size: 14px;
+        margin-top: 37px;
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .f-bg-content {
+        padding: 10px;
+    }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    
+}
