@@ -56,6 +56,7 @@ a.btn-c:hover{
 /*header start*/
 header {
     padding: 12px 0;
+    background: #fff;
 }
 .logo {
     font-family: 'Poppins', sans-serif;
